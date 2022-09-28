@@ -1,3 +1,3 @@
-![Иллюстрация к проекту](https://github.com/twogophers/persona-detstvo/raw/master/assets/images/Screenshot_4.png)
+![Иллюстрация к проекту](https://github.com/twoGophers/idaproject/blob/master/assets/images/NuxtIdaProject.png?raw=true)
  
  Demo : https://twogophers.github.io/idaproject/
